@@ -59,13 +59,10 @@ class BroadcastController extends TelegramBaseController {
             else
             {
                 $.runForm(form, (result) => {
-                    //console.log(result)
-                    //$.sendMessage('registered!')
                 })
             }
         })
 
-        // if(var telegram_key = config.telegram_key)
         const form = {
             bcast: {
 
