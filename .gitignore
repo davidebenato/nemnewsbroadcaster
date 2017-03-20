@@ -1,0 +1,4 @@
+.node-persist
+.bin
+node_modules/
+.storage

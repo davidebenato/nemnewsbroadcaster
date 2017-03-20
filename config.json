@@ -1,0 +1,8 @@
+{
+  "telegram_key": "add-your-key-here",
+  "local_port": 7776,
+  "admins": [
+             "authorizeduser1",
+	     "authorizedusr2"
+            ]
+}
